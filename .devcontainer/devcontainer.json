@@ -2,17 +2,6 @@
 	"name": "Python 3.11 Dev Container",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "app",
-	"workspaceFolder": "/app",
-	// "forwardPorts": [5000],
-	// "customizations": [
-	//   {
-	// 	"key": "ms-python.python",
-	// 	"extensionId": "ms-python.python"
-	//   }
-	// ],
-	// "settings": {
-	//   "terminal.integrated.shell.linux": "/bin/bash"
-	// },
-	// "postCreateCommand": "pip install -r requirements.txt"
-  }
+	"workspaceFolder": "/app"
+}
   
